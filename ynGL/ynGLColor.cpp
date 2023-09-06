@@ -1,6 +1,7 @@
 #include "glut.h"
 #include <math.h>
 
+//作个测试，在云端修改，看本地是否能用git单独文件更新
 void SetupRC()
 {
 	glClearColor(0., 0., 0., 1.0);
